@@ -1,5 +1,5 @@
-# Molecular Methods in Ecology and Evolution - 2025 - University of Lausanne
-This is the repository for the master course "Molecular Methods in Ecology and Evolution - 2025 - UNIL"
+# Molecular Methods in Ecology and Evolution - 2026 - University of Lausanne
+This is the repository for the master course "Molecular Methods in Ecology and Evolution - 2026 - UNIL"
 
 Here you will find all the information and data you will need for the computer analyses of the course.
 
